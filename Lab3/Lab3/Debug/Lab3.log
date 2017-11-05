@@ -1,0 +1,3 @@
+﻿  Lab3Dlg.cpp
+c:\users\stefania\desktop\lab3\lab3\lab3dlg.cpp(222): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab3.vcxproj -> C:\Users\Stefania\Desktop\Lab3\Debug\Lab3.exe
