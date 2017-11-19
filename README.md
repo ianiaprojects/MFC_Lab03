@@ -1,2 +1,2 @@
-# VisualCpp_Laborator3
-Homework2
+MFC
+Homework 02
